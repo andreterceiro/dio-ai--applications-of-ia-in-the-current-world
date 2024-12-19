@@ -42,3 +42,5 @@ Can detect a face and can associate a face to a specific person. Is used as exam
 ## Natural language processing (NLP)
 
 Uses models based on neural networks. Teacher showed a screen with an interaction with Chat GPT. The processing can generate the probability of a word appears after other word. This type of algorithms can detect relations of a word with a context, like a historical context or link a word to a professional area.
+
+Teacher also explained that one word can have multiple meanings. And the algorithm can detect the meaning of the word based on the context. Teacher talked the expresssions "semantical analisys" and "lexical disambiguation".
