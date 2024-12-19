@@ -23,3 +23,8 @@ In this the model needs to learn exploring the data. You will not provide a seri
 ### Learning by reinforcement
 
 In this model the model learn based on a reward or punishment, feedback it receives for each answer.
+
+
+## Computer vision
+
+Is related to the capacity of an algorithm detect a specific thing in an image or a video.
