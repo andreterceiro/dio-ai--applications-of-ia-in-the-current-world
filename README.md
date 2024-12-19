@@ -15,3 +15,8 @@ In this model already exists a series of questions and answers correct and the m
 In this the model needs to learn exploring the data. You will not provide a series of right questions and answers.
 
  Or to identify groups of customers with similar habits related to a random buy. Or to identify groups of customers with similar habits related to a random buy.
+
+
+## Learning by reinforcement
+
+In this model the model learn based on a reward or punishment, feedback it receives for each answer.
