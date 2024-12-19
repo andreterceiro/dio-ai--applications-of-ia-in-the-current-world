@@ -56,3 +56,5 @@ Teacher talked about the learning a robot can make based on the environment, lik
 
 Teacher talked that the robots can be equiped with several types of sensors to get information from the environment. This way a vacuum cleaner can learn paths in the environment as example. Is a little obvious, but the way a robot learn using information of the environment is like a learn by reinforcement.
 
+This area sometimes faces ethical conflicts, because we have as example robots involved in wars.
+
