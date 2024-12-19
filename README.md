@@ -27,4 +27,4 @@ In this model the model learn based on a reward or punishment, feedback it recei
 
 ## Computer vision
 
-Is related to the capacity of an algorithm detect a specific thing in an image or a video.
+Is related to the capacity of an algorithm detect a specific thing in an image or a video. This tecnhnology uses an algorithm with neural networks. This networks was inspired in the human brain and have the capacity of learn complex patterns. Is like to teach a machine to identify a generic remote control and the machine now can identify an arbitrary remote control. And you can create constraints that limit the result, like asking the algorithm to only return results of air conditioner based on the format of the control or the vendor of the control.
