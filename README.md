@@ -37,3 +37,8 @@ This type of algorithm is used as example in autonomous cars.
 ## Face detection
 
 Can detect a face and can associate a face to a specific person. Is used as example to unlock a cellphone. Is useful in systems related to surveillance or security.
+
+
+## Natural language processing (NLP)
+
+Uses models based on neural networks. Teacher showed a screen with an interaction with Chat GPT. The processing can generate the probability of a word appears after other word. This type of algorithms can detect relations of a word with a context, like a historical context or link a word to a professional area.
