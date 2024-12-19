@@ -32,3 +32,8 @@ Is related to the capacity of an algorithm detect a specific thing in an image o
 This type of algorithm can as example identify a face in an image, or detect a specific object in a video, a sentiment or an ogject moving. Also, this type of algorithm can separeate different objects in an image.
 
 This type of algorithm is used as example in autonomous cars.
+
+
+## Face detection
+
+Can detect a face and can associate a face to a specific person. Is used as example to unlock a cellphone. Is useful in systems related to surveillance or security.
